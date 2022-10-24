@@ -1,0 +1,16 @@
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.csproj.AssemblyReference.cache
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.csproj.SuggestedBindingRedirects.cache
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\App.g.cs
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter_MarkupCompile.cache
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\MainWindow.g.cs
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter_MarkupCompile.lref
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\MainWindow.baml
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.g.resources
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.Properties.Resources.resources
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.csproj.GenerateResource.cache
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\surga\Desktop\24.10.22\Converter\Converter\obj\Debug\Converter.pdb

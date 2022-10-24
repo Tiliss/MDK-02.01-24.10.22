@@ -1,0 +1,16 @@
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\bin\Debug\Delay.exe.config
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\bin\Debug\Delay.exe
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\bin\Debug\Delay.pdb
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.csproj.AssemblyReference.cache
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.csproj.SuggestedBindingRedirects.cache
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\MainWindow.g.cs
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\App.g.cs
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay_MarkupCompile.cache
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay_MarkupCompile.lref
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\MainWindow.baml
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.g.resources
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.Properties.Resources.resources
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.csproj.GenerateResource.cache
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.csproj.CoreCompileInputs.cache
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.exe
+C:\Users\surga\Desktop\24.10.22\Delay\Delay\obj\Debug\Delay.pdb

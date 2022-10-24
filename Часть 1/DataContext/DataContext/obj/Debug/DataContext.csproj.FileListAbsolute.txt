@@ -1,0 +1,16 @@
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\bin\Debug\DataContext.exe.config
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\bin\Debug\DataContext.exe
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\bin\Debug\DataContext.pdb
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.csproj.AssemblyReference.cache
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.csproj.SuggestedBindingRedirects.cache
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\MainWindow.g.cs
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\App.g.cs
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext_MarkupCompile.cache
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext_MarkupCompile.lref
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\MainWindow.baml
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.g.resources
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.Properties.Resources.resources
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.csproj.GenerateResource.cache
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.csproj.CoreCompileInputs.cache
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.exe
+C:\Users\surga\Desktop\24.10.22\DataContext\DataContext\obj\Debug\DataContext.pdb
